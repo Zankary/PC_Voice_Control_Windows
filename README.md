@@ -24,7 +24,7 @@ No Discord, configure esse atalho em:
 
 **Configurações → Atalhos de teclado → Adicionar um atalho → Silenciar**
 
-Escolha `Ctrl + Shift + M` como atalho global.
+Escolha ` ' ` como atalho global.
 
 Assim, o comando de voz não depende de o Discord estar com o foco.
 
